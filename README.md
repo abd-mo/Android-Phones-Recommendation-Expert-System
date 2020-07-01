@@ -40,7 +40,7 @@ This program was developed by Clips (C Language Integrated Production System) la
 
 The questions are very clear and simple.
 
-The program include the following:
+The program includes the following:
 
     • (deftemplate mobile)
     • (deffacts mobile-database)
